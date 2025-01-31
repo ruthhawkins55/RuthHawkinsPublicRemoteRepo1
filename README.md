@@ -5,5 +5,5 @@ Hi, I am Morgan! I am a collaborator on Ruth's repository.
 
     
 
-   Local change made by Ruth Hawkins.
+   Remote change made by Ruth Hawkins.
 
