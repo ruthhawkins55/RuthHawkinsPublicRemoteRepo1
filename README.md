@@ -2,4 +2,5 @@
 
 Hi, I'm Ruth! This repository is created to practice Git and GitHub. 
 Hi, I am Morgan! I am a collaborator on Ruth's repository. 
-Local change made by Ruth Hawkins.
+Remote change made by Ruth Hawkins.
+
